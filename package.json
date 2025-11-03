@@ -1,0 +1,18 @@
+{
+  "name": "github-login-automation",
+  "version": "1.0.0",
+  "description": "Automação de login no GitHub com Playwright",
+  "main": "githubLogin.js",
+  "scripts": {
+    "start": "node githubLogin.js",
+    "start:secure": "node githubLogin-seguro.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "playwright": "^1.40.0",
+    "dotenv": "^16.3.1"
+  },
+  "keywords": ["playwright", "automation", "github", "login"],
+  "author": "Seu Nome",
+  "license": "MIT"
+}

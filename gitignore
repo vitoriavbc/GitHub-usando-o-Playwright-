@@ -1,0 +1,4 @@
+# Arquivos a serem ignorados no git
+.env
+*.png
+node_modules/

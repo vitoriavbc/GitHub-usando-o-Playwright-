@@ -1,0 +1,5 @@
+# Arquivo de configuração - NUNCA COMPARTILHE ESTE ARQUIVO!
+# Adicione este arquivo no .gitignore se for usar controle de versão
+
+GITHUB_USERNAME=seu_usuario_github_aqui
+GITHUB_PASSWORD=sua_senha_github_aqui
